@@ -1,6 +1,6 @@
 import React, { Component } from "react";
  
-class Pickup extends  React.Component {
+class Pickup extends Component {
   render() {
     return (
       <div>
