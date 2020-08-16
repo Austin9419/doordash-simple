@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Austin9419/doordash-simple/static/css/main.bfb904ce.chunk.css",
-    "main.js": "/Austin9419/doordash-simple/static/js/main.a5122f53.chunk.js",
-    "main.js.map": "/Austin9419/doordash-simple/static/js/main.a5122f53.chunk.js.map",
-    "runtime-main.js": "/Austin9419/doordash-simple/static/js/runtime-main.5875cf09.js",
-    "runtime-main.js.map": "/Austin9419/doordash-simple/static/js/runtime-main.5875cf09.js.map",
-    "static/js/2.7522c6bf.chunk.js": "/Austin9419/doordash-simple/static/js/2.7522c6bf.chunk.js",
-    "static/js/2.7522c6bf.chunk.js.map": "/Austin9419/doordash-simple/static/js/2.7522c6bf.chunk.js.map",
-    "index.html": "/Austin9419/doordash-simple/index.html",
-    "precache-manifest.e95280643197c2401cfd974188078c8f.js": "/Austin9419/doordash-simple/precache-manifest.e95280643197c2401cfd974188078c8f.js",
-    "service-worker.js": "/Austin9419/doordash-simple/service-worker.js",
-    "static/css/main.bfb904ce.chunk.css.map": "/Austin9419/doordash-simple/static/css/main.bfb904ce.chunk.css.map",
-    "static/js/2.7522c6bf.chunk.js.LICENSE.txt": "/Austin9419/doordash-simple/static/js/2.7522c6bf.chunk.js.LICENSE.txt"
+    "main.css": "/doordash-simple/static/css/main.bfb904ce.chunk.css",
+    "main.js": "/doordash-simple/static/js/main.a5122f53.chunk.js",
+    "main.js.map": "/doordash-simple/static/js/main.a5122f53.chunk.js.map",
+    "runtime-main.js": "/doordash-simple/static/js/runtime-main.2a838d81.js",
+    "runtime-main.js.map": "/doordash-simple/static/js/runtime-main.2a838d81.js.map",
+    "static/js/2.7522c6bf.chunk.js": "/doordash-simple/static/js/2.7522c6bf.chunk.js",
+    "static/js/2.7522c6bf.chunk.js.map": "/doordash-simple/static/js/2.7522c6bf.chunk.js.map",
+    "index.html": "/doordash-simple/index.html",
+    "precache-manifest.2efb3a0bd836c4c4c228b044130c40f0.js": "/doordash-simple/precache-manifest.2efb3a0bd836c4c4c228b044130c40f0.js",
+    "service-worker.js": "/doordash-simple/service-worker.js",
+    "static/css/main.bfb904ce.chunk.css.map": "/doordash-simple/static/css/main.bfb904ce.chunk.css.map",
+    "static/js/2.7522c6bf.chunk.js.LICENSE.txt": "/doordash-simple/static/js/2.7522c6bf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5875cf09.js",
+    "static/js/runtime-main.2a838d81.js",
     "static/js/2.7522c6bf.chunk.js",
     "static/css/main.bfb904ce.chunk.css",
     "static/js/main.a5122f53.chunk.js"
