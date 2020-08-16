@@ -1,6 +1,6 @@
 import React, { Component } from "react";
  
-class delivery extends Component {
+class delivery extends React.Component {
   render() {
     return (
       <div>
