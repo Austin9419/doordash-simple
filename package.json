@@ -2,7 +2,7 @@
   "name": "gp2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mawwal-ecpi.github.io/copper-project/",
+  "homepage": "https://github.com/Austin9419/doordash-simple",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
