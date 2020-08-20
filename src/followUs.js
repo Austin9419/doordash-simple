@@ -1,6 +1,6 @@
 import React, { Component } from "react";
  
-class Pickup extends Component {
+class followUs extends Component {
   render() {
     return (
       <div>
@@ -13,4 +13,4 @@ class Pickup extends Component {
   }
 }
  
-export default Pickup;
+export default followUs;

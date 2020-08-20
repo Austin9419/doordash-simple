@@ -6,7 +6,7 @@ import {
 } from "react-router-dom";
 
 import delivery from "./orderNow";
-import Pickup from "./Pickup";
+import followUs from "./followUs";
 import Resturants from "./Resturant";
  
 class Main extends Component {
@@ -26,13 +26,13 @@ class Main extends Component {
           <ul className="header">
             <li><NavLink exact to="/">Home</NavLink></li>
             <li><NavLink to="/orderNow">Order Now!</NavLink></li>
-            <li><NavLink to="/Pickup">Follow Us</NavLink> </li>
+            <li><NavLink to="/followUs">Follow Us!</NavLink> </li>
             
             
           </ul>
           <div className="content">
             <Route exact path="/" component={Resturants}/>
-            <Route path="/Pickup" component={Pickup}/>
+            <Route path="/followUs" component={followUs}/>
             <Route path="/orderNow" component={delivery}/>
             
           </div>
