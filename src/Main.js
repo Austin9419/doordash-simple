@@ -5,22 +5,27 @@ import {
   HashRouter
 } from "react-router-dom";
 
-import delivery from "./delivery";
+import delivery from "./orderNow";
 import Pickup from "./Pickup";
 import Resturants from "./Resturant";
  
 class Main extends Component {
   render() {
     return (
+
+
+
+      
         <HashRouter>
-          <div class="header">
-             <h1>Doordash</h1>
-             <p>"It's Our Pleasure"</p>
+
+          <div class="logo">
+          <a href="/Restaurants"><img src="https://logos-download.com/wp-content/uploads/2019/07/Doordash_Logo.png" alt="" width="80" height="80" class="center"></img>
+          </a>
           </div>
           <div>
           <ul className="header">
             <li><NavLink exact to="/">Resturants</NavLink></li>
-            <li><NavLink to="/delivery">Delivery</NavLink></li>
+            <li><NavLink to="/orderNow">Order Now!</NavLink></li>
             <li><NavLink to="/Pickup">In-store Pickup</NavLink> </li>
             
             
@@ -28,7 +33,7 @@ class Main extends Component {
           <div className="content">
             <Route exact path="/" component={Resturants}/>
             <Route path="/Pickup" component={Pickup}/>
-            <Route path="/delivery" component={delivery}/>
+            <Route path="/orderNow" component={delivery}/>
             
           </div>
         </div>

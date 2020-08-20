@@ -1,22 +1,38 @@
 body {
-    background-color: #FFF;
+    background-color: #fff;
     padding: 20px;
     margin: 0;
   }
 
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+ .red{
+   background-color: #FD0707;
+   padding: 25px;
+
+ }
   h1 {
     padding: 35pxpx;
-    text-align: left;
+    text-align: centered;
     background-color: #FD0707;
     color: white;
     font-size: 30px;
     font-weight: bolder;
+    
+    
   }
 
   
+
+
   h2, p, ul, li {
     font-family: sans-serif;
     font-weight: bold;
+    
   }
   ul.header li {
     display: inline;
@@ -34,8 +50,14 @@ body {
     padding: 20px;
     display: inline-block;
   }
+
+  .white{
+    color: white;
+   background: red;
+   width: 130px;
+  }
   .content {
-    background-color: #FFF;
+    background-color: #fff;
     padding: 20px;
   }
   .content h2 {
