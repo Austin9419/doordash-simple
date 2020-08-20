@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/doordash-simple/precache-manifest.2efb3a0bd836c4c4c228b044130c40f0.js"
+  "/doordash-simple/precache-manifest.9c9dfe0f275c9109e4627d7e4df034a1.js"
 );
 
 self.addEventListener('message', (event) => {
