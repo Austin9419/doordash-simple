@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/doordash-simple/static/css/main.7a1634e8.chunk.css",
+    "main.css": "/doordash-simple/static/css/main.3519ad5e.chunk.css",
     "main.js": "/doordash-simple/static/js/main.0e0c73a5.chunk.js",
     "main.js.map": "/doordash-simple/static/js/main.0e0c73a5.chunk.js.map",
     "runtime-main.js": "/doordash-simple/static/js/runtime-main.2a838d81.js",
@@ -8,15 +8,15 @@
     "static/js/2.7522c6bf.chunk.js": "/doordash-simple/static/js/2.7522c6bf.chunk.js",
     "static/js/2.7522c6bf.chunk.js.map": "/doordash-simple/static/js/2.7522c6bf.chunk.js.map",
     "index.html": "/doordash-simple/index.html",
-    "precache-manifest.8ff441f9d51ace658832516a0a62ab2b.js": "/doordash-simple/precache-manifest.8ff441f9d51ace658832516a0a62ab2b.js",
+    "precache-manifest.3a1315b76f6799645593093fda549ad1.js": "/doordash-simple/precache-manifest.3a1315b76f6799645593093fda549ad1.js",
     "service-worker.js": "/doordash-simple/service-worker.js",
-    "static/css/main.7a1634e8.chunk.css.map": "/doordash-simple/static/css/main.7a1634e8.chunk.css.map",
+    "static/css/main.3519ad5e.chunk.css.map": "/doordash-simple/static/css/main.3519ad5e.chunk.css.map",
     "static/js/2.7522c6bf.chunk.js.LICENSE.txt": "/doordash-simple/static/js/2.7522c6bf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2a838d81.js",
     "static/js/2.7522c6bf.chunk.js",
-    "static/css/main.7a1634e8.chunk.css",
+    "static/css/main.3519ad5e.chunk.css",
     "static/js/main.0e0c73a5.chunk.js"
   ]
 }

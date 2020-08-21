@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cc97fb45d47b29352a208966f4bae8b2",
+    "revision": "79ea7ad22e5e1b07ce43be4cc5a9c6cc",
     "url": "/doordash-simple/index.html"
   },
   {
-    "revision": "d793175ba491ee307156",
-    "url": "/doordash-simple/static/css/main.7a1634e8.chunk.css"
+    "revision": "32e2bdd49a4973dcd0cc",
+    "url": "/doordash-simple/static/css/main.3519ad5e.chunk.css"
   },
   {
     "revision": "a53b6f23b48e8da5cbcd",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/doordash-simple/static/js/2.7522c6bf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d793175ba491ee307156",
+    "revision": "32e2bdd49a4973dcd0cc",
     "url": "/doordash-simple/static/js/main.0e0c73a5.chunk.js"
   },
   {
