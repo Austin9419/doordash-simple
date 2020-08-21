@@ -70,6 +70,7 @@ body {
    font-family: 'Bangers';
    letter-spacing: 2px;
    font-weight: lighter;
+   text-align:center;
   }
   .content {
     background-color: #fff;
