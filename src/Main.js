@@ -25,8 +25,9 @@ class Main extends Component {
           <div>
           <ul className="header">
             <li><NavLink exact to="/">Home</NavLink></li>
+            <li><NavLink to="/followUs">About Us</NavLink> </li>
             <li><NavLink to="/orderNow">Order Now!</NavLink></li>
-            <li><NavLink to="/followUs">Follow Us!</NavLink> </li>
+           
             
             
           </ul>
