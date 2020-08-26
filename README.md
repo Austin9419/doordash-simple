@@ -1,4 +1,23 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Unit 5 Course Project
+Austin Pullen
+CIS 453
+
+Changes made throughout the project
+
+-Homepage filled with more tiles and better selection of food categories.
+    -Food banner added to shows some type of food on the homepage of the website.
+
+-Video added to About Us to explain what the company is all about. 
+
+-Order now page offers a button that takes uses diretly to the DoorDash website to place their order.
+
+
+Navigation: 
+  -Home Page: Select the category you are ordering, directs you to the doordash website where you have to enter your location once. Then will show the category you selected.
+
+  -About us: Shows social icons that sometimes offer delievery discount deals, and a video to tell who we are. As well as a paragraph breiefing explaing the company mission.
+
+  -Order Now: A button that allows users to go directly to the DoorDash website. 
 
 ## Available Scripts
 
